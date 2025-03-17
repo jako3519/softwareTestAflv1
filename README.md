@@ -1,6 +1,7 @@
 ## SoftwareTestAflevering
 
 Første Software Test aflevering Unit-test class Calculator
+Her er det både unittest, og en opsat pipeline på gitlab
 
 # Gruppe: 
 
